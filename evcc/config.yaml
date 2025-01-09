@@ -3,7 +3,7 @@ name: evcc
 version: 0.132.1
 slug: evcc
 description: EV Charge Controller!
-url: https://github.com/evcc-io/evcc
+url: https://github.com/smartenergycontrol-be/evcc
 arch: 
   - armhf
   - armv7
